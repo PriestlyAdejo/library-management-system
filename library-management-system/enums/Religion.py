@@ -1,0 +1,24 @@
+from enum import Enum, auto
+class Religion(Enum):
+    AGNOSTIC = 1
+    PAGAN = 2
+    ATHEIST = 3
+    SIKH = 4
+    BAHAI = 5
+    RASTAFARIAN = 6
+    BUDDHIST = 7
+    SCIENTOLOGIST = 8
+    CHRISTIAN = 9
+    CATHOLIC = 10
+    PROTESTANT = 11
+    CHRISTIAN_OTHER = 12
+    ZOROASTRIAN = 13
+    HINDU = 14
+    SHINTO = 15
+    HUMANISM = 16
+    JAIN = 17
+    JEWISH = 18
+    MUSLIM = 19
+    NO_RELIGION_OR_BELIEF = 20
+    OTHER_RELIGION_OR_BELIEF = 21
+    PREFER_NOT_TO_SAY = 22

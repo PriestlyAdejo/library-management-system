@@ -1,0 +1,2 @@
+These series of jupyter notebooks are for using different approaches to sorting and ordering the unsorted 
+SQL data depending on what machine learning model is requested to be used (seen in other files). 

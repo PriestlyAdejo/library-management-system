@@ -1,0 +1,10 @@
+from enum import Enum, auto
+class SchoolBackground(Enum):
+    SCHOOL_OUT_OF_UK = 1
+    INDEPENDENT_BURSARY = 2
+    INDEPENDENT_SCHOLARSHIP = 3
+    INDEPENDENT_NO_BURSARY = 4
+    SELECTIVE_STATE_FUNDED = 5
+    SELECTIVE_NOT_STATE_FUNDED = 6
+    DONT_KNOW = 7
+    PREFER_NOT_TO_SAY = 8
